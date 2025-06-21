@@ -28,6 +28,7 @@ This is a backend server built with **Express**, **TypeScript**, **Mongoose**, a
 
 ## 📁 Project Structure
 
+```
 src/
 ├── app.ts
 ├── server.ts
@@ -49,6 +50,7 @@ src/
 └── routes/
 ├── books.route.ts
 └── borrow.route.ts
+```
 
 ---
 
