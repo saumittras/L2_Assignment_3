@@ -118,6 +118,6 @@ npm start
 
 ### Important Links
 
-<a href='https://github.com/saumittras/L2_Assignment_3'>GitHub Repository Link</a>
-<a href='https://library-b5a3.vercel.app/'>Live Deployment Link</a>
-<a href='https://library-b5a3.vercel.app/'>Explanation Video Link</a>
+GitHub Repository: <a href='https://github.com/saumittras/L2_Assignment_3'>Link</a><br>
+Live Deployment: <a href='https://library-b5a3.vercel.app/'>Link</a></br>
+Explanation Video: <a href='https://library-b5a3.vercel.app/'>Link</a>
