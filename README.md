@@ -115,3 +115,9 @@ npm start
 | ------ | ------------- | ----------------------------- |
 | POST   | `/api/borrow` | Borrow a book                 |
 | GET    | `/api/borrow` | Get summary of borrowed books |
+
+### Important Links
+
+<a href='https://github.com/saumittras/L2_Assignment_3'>GitHub Repository Link</a>
+<a href='https://library-b5a3.vercel.app/'>Live Deployment Link</a>
+<a href='https://library-b5a3.vercel.app/'>Explanation Video Link</a>
